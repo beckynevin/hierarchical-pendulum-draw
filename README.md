@@ -1,0 +1,1 @@
+![No pooling versus hierarchical versus full pooling informational flowchart](https://github.com/beckynevin/hierarchical-pendulum-draw/tree/main/images/pooling_hierarchical_no_pooling_chart.png)
