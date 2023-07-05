@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "hierarchical-pendulum-draw"
+version = "0.1.0"
+description = ""
+authors = ["beckynevin <beckynevin@gmail.com>"]
+readme = "README.md"
+packages = [{include = "hierarchical_pendulum_draw"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+numpyro = "^0.12.1"
+numpy = "^1.25.0"
+jupyter = "^1.0.0"
+matplotlib = "^3.7.1"
+arviz = "^0.15.1"
+corner = "^2.2.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
