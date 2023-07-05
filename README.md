@@ -1,1 +1,3 @@
-![No pooling versus hierarchical versus full pooling informational flowchart](https://github.com/beckynevin/hierarchical-pendulum-draw/blob/main/images/pooling_hierarchical_no_pooling_chart.png)
+![No pooling versus hierarchical versus full pooling informational flowchart](https://github.com/beckynevin/hierarchical-pendulum-draw/blob/main/images/hierarchical_pendulum_phi.png)
+
+Here, ![\Large a_g=G\Phi](https://latex.codecogs.com/svg.latex?\Large&space;a_g=G\Phi) where G is a constant and not part of the inference. ![\Large \Phi=M/r^2](https://latex.codecogs.com/svg.latex?\Large&space;\Phi=M/r^2)
